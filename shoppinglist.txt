@@ -2,3 +2,5 @@ Shopping list
 bread
 orange juice
 oranges
+chocolate
+cookies
